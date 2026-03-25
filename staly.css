@@ -1,7 +1,9 @@
 body{
-    background-color: bisque;
+    background-color: #7D4F9D;
+    color: rgb(252, 252, 252);
+    font-family: 'Times New Roman', Times, serif;
 }
 
 button{
-    background-color: rgb(160, 124, 194);
+    background-color: #6E734D;
 }
