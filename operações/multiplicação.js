@@ -1,7 +1,7 @@
 function mul(){
 
-    const numero1 = document.getElementById('numero1us').value;
-    const numero2 = document.getElementById('numero2us').value;
+    let numero1 = document.getElementById('numero1us').value;
+    let numero2 = document.getElementById('numero2us').value;
 
     if (numero1 === "" || numero2 === "") {
         alert("Os campos estão vazios.");
